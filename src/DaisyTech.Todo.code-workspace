@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "./DaisyTech.Todo.WebApp"
+		},
+		{
+			"path": "DaisyTech.Todo.Api"
+		},
+		{
+			"path": "DaisyTech.Todo.QueryStack"
+		},
+		{
+			"path": "DaisyTech.Todo.QueryStack.SqlServer"
+		}
+	],
+	"settings": {}
+}
